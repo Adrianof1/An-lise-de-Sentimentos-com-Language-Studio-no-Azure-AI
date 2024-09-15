@@ -9,8 +9,8 @@ Este repositório contém um exemplo de análise de sentenças usando IA.
 3. Análise das sentenças pela IA.
 
 ## Insights
-- A análise das sentenças revelou padrões interessantes, como...
-- Possibilidades futuras incluem...
+- A análise das sentenças revelou padrões interessantes.
+- Possibilidades futuras.
 
 ## Prints de Tela
 faze em andamento
