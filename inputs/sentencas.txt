@@ -1,0 +1,114 @@
+1º O passeio de barco foi inesquecível! As paisagens eram de tirar o fôlego e o guia foi muito informativo.
+Gostei muito do tour pela cidade. Aprendi bastante sobre a história local e os pontos turísticos são incríveis.
+O passeio de trilha foi um pouco cansativo, mas a vista no final valeu a pena. Recomendo para quem gosta de aventura.
+
+
+Analyzed sentiment
+Document sentiment
+mixed
+Confidence: 85.00%
+85.00%
+Positive
+3.00%
+Neutral
+12.00%
+Negative
+Sentence 1
+
+Sentence sentiment
+positive
+Confidence: 99.00%
+99.00%
+Positive
+1.00%
+Neutral
+0.00%
+Negative
+Opinion
+Target: passeio
+Assessments:
+inesquecível (positive, 100.00%)
+Opinion
+Target: barco
+Assessments:
+inesquecível (positive, 100.00%)
+Sentence 2
+
+Sentence sentiment
+positive
+Confidence: 99.00%
+99.00%
+Positive
+1.00%
+Neutral
+0.00%
+Negative
+Opinion
+Target: paisagens
+Assessments:
+fôlego (positive, 100.00%)
+Opinion
+Target: guia
+Assessments:
+informativo (positive, 100.00%)
+Sentence 3
+
+Sentence sentiment
+positive
+Confidence: 83.00%
+83.00%
+Positive
+17.00%
+Neutral
+0.00%
+Negative
+Sentence 4
+
+Sentence sentiment
+positive
+Confidence: 100.00%
+100.00%
+Positive
+0.00%
+Neutral
+0.00%
+Negative
+Opinion
+Target: pontos turísticos
+Assessments:
+incríveis (positive, 100.00%)
+Sentence 5
+
+Sentence sentiment
+negative
+Confidence: 28.00%
+28.00%
+Positive
+3.00%
+Neutral
+69.00%
+Negative
+Opinion
+Target: passeio
+Assessments:
+cansativo (negative, 100.00%)
+Opinion
+Target: vista
+Assessments:
+valeu (positive, 100.00%)
+Sentence 6
+
+Sentence sentiment
+positive
+Confidence: 100.00%
+100.00%
+Positive
+0.00%
+Neutral
+0.00%
+Negative
+
+2º A estadia no hotel foi maravilhosa! O quarto era espaçoso e a vista era deslumbrante. O café da manhã também era delicioso. O serviço de atendimento foi excelente, mas achei que o quarto poderia ser mais limpo. Tive uma experiência incrível no resort. As atividades oferecidas eram variadas e divertidas, e a equipe foi muito atenciosa.
+
+3º Comprei este smartphone recentemente e estou impressionado com a qualidade da câmera e a duração da bateria. Recomendo!. Agora o aspirador de pó não é muito eficiente e silencioso. Não facilitou muito a limpeza da minha casa.
+Infelizmente, o produto não atendeu às minhas expectativas. A qualidade do material é inferior ao esperado.
